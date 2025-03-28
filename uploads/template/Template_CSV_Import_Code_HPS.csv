@@ -1,0 +1,2 @@
+﻿Code,SerialNumber,CustomerName,PhoneNumber,Email,PurchaseLocation,CityProvince,DistrictProvide,IsChecked,CheckIP,CheckTime,created_at,updated_at
+Mã Kích Hoạt,Số Seri,Tên Khách Hàng,Số Điện Thoại,Email,Nơi Mua Hàng,Tỉnh/Thành,Quận/Huyện,Trạng Thái,Địa Chỉ IP,Thời Gian Kích Hoạt,Ngày Tạo Mã,Ngày Cập Nhật
